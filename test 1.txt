@@ -1,2 +1,1 @@
 intial commit
-test of "git commit --amend"
